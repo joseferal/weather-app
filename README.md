@@ -8,8 +8,3 @@ The app is easy to use and has an intuitive interface that allows you to search 
 ## Tech Stack
 
 HTML, CSS, JS, API
-
-
-## Support
-
-You can see more projects at jmfernandez.dev, as well as contact me at [jose@jtax.dev](mailto:jose@jtax.dev).
